@@ -2,7 +2,11 @@
 .row2 {
   display: flex;
   justify-content: start;
-
+}
+body {
+  margin-left: 160px;
+  margin-right: 180px;
+}
 .row1 .row1_img {
   margin-left: 100px;
   margin-top: 0px;
@@ -12,9 +16,6 @@
 .row1_text {
   margin-top: 50px;
   margin-left: 20px;
-}
-.row2 .row2_img {
-  margin-top: 80px;
 }
 .row2 .row2_text {
   margin-left: 200px;
