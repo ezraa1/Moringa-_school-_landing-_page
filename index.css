@@ -1,0 +1,201 @@
+.row1,
+.row2 {
+  display: flex;
+  justify-content: start;
+}
+body {
+  margin-left: 160px;
+  margin-right: 180px;
+}
+.row1 .row1_img {
+  margin-left: 100px;
+  margin-top: 0px;
+
+  margin-top: 80px;
+}
+.row1_text {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.row2 .row2_img {
+  margin-top: 80px;
+}
+.row2 .row2_text {
+  margin-left: 200px;
+  
+  margin-top: 80px;
+}
+.row3 {
+  margin-top: 40px;
+}
+.mentors {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin: 3%;
+  position: relative;
+}
+.mentors li {
+  list-style: none;
+}
+.row6 {
+  padding-left: none;
+  margin-top: 80px;
+}
+h1 {
+  color: rgb(230, 91, 41);
+}
+.mentors .h3 {
+  color: brown;
+}
+.topnav {
+  float: right;
+  text-decoration: none;
+  position: top;
+  margin-right: 20%;
+
+}
+
+.special {
+  color: chocolate;
+}
+.topnav .button {
+  background-color: #ec4067;
+  border: 20px;
+  padding: 10px 28px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  width: 250px;
+  margin: 20px;
+}
+.button1 {
+  background-color: #ec4067;
+  border: none;
+  padding: 10px 28px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+.row6 .row1_img {
+  margin: 5px;
+  margin-top: 1px;
+}
+.tech {
+  padding-left: none;
+  margin-top: 50px;
+}
+.tech .row1_img {
+  margin: 5px;
+  margin-top: -1px;
+}
+.nav{
+  margin: 15px;
+  text-decoration: none;
+}
+.nav3{
+  border: 1px solid black;
+  background-color: white;
+  padding: 10px 28px;
+  border-color: red;
+  color: red;
+  text-decoration: none;
+}
+
+.row2_img{
+  margin-top: 80px;
+}
+.head .row1_img{
+  margin-left: 60px;
+  
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-top: -40px;
+}
+.button10{
+  margin-bottom: 50px;
+  text-decoration: none;
+}
+.final{
+  border-style:groove;
+  background-color: lightgray; 
+  text-align: center;
+  border: 1px;
+  padding: 20px 40px;
+  
+}
+
+.names{
+  position: absolute;
+  bottom: 160px;
+  left: 10px;
+  color: aliceblue;
+}
+.name1{
+  position: absolute;
+  bottom: 160px;
+  color: aliceblue;
+}
+.name2{
+  position: absolute;
+  bottom: 160px;
+  color: aliceblue;
+}
+.name3{
+  position: absolute;
+  bottom: 160px;
+  color: aliceblue;
+}
+.row2 .date{
+  position: absolute;
+  bottom: -80px;
+  left: 180px;
+  color: aliceblue;
+  
+}
+.date0{
+  position: absolute;
+  bottom: -63%;
+  left: 50%;
+  color: aliceblue;
+  
+}
+.date1{
+  position: absolute;
+  bottom: -108%;
+  color: aliceblue;
+  left:13%;
+}
+.title{
+  color: #ec4067;
+}
+.label{
+  position: absolute;
+  bottom: 11%;
+  left: 33%;
+  color: aliceblue;
+}
+.label0{
+  position: absolute;
+  bottom: -40%;
+  left: 69%;
+  color: aliceblue;
+}
+.label2{
+  position: absolute;
+  bottom: -85%;
+  left: 33%;
+  color: aliceblue;
+}
+.button11{
+  text-decoration: none;
+}
+.half{
+  border-style:none;
+  background-color: lightgray; 
+  position: relative;
+  border: 1px;
+  
+  
+}
