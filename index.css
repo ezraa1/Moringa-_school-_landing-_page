@@ -69,7 +69,15 @@ h1 {
   width: 250px;
   margin: 20px;
 }
-
+.button1 {
+  background-color: #ec4067;
+  border: none;
+  padding: 10px 28px;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 50px;
+}
 .row6 .row1_img {
   margin: 5px;
   margin-top: 1px;
@@ -109,14 +117,7 @@ h1 {
   margin-bottom: 50px;
   text-decoration: none;
 }
-.final{
-  border-style:groove;
-  background-color: lightgray; 
-  text-align: center;
-  border: 1px;
-  padding: 20px 40px;
-  
-}
+
 
 .names{
   position: absolute;
