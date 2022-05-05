@@ -5,7 +5,7 @@
 }
 body {
   margin-left: 160px;
-  margin-right: 180px;
+  margin-right: 200px;
 }
 .row1 .row1_img {
   margin-left: 100px;
@@ -117,7 +117,14 @@ h1 {
   margin-bottom: 50px;
   text-decoration: none;
 }
-
+.final{
+  border-style:groove;
+  background-color: lightgray; 
+  text-align: center;
+  border: 1px;
+  padding: 20px 40px;
+  
+}
 
 .names{
   position: absolute;
@@ -192,7 +199,12 @@ h1 {
   
   
 }
-span{
+.span{
+  border: grey;
 color: grey;
+
+}
+*{
+  font-type:nunito ;
 
 }
