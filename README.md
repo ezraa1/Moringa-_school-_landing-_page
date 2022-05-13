@@ -1,6 +1,19 @@
 # Moringa-_school-_landing-_page
+## By Ezra Kipchirchir
+![Screenshot from 2022-05-13 12-35-27](https://user-images.githubusercontent.com/104457703/168256971-3d364eee-470e-41de-8a44-04c5b4d4a610.png)
+## Table of content
+   -Description
+   -Project-setup-Instructions and requirements
+   -The Technology used
+   -Known Bugs
+   -Live link
+   -License
+   -Authors information
 ### Description
-This project displays the moringa school home page where one can actually get the basic knowledge of of what the school offers even apart from the tech field.  
+This project displays the moringa school home page where one can actually get the basic knowledge of of what the school offers even apart from the tech field. 
+### Features
+1. The user is able to understand the program services in Moringa
+2. The user is in a position to make contact to the School
 ### Project-Setup-Instructions and requirements
 1)Installation of the Visual studio code with some of its extensions such as the live server
 2)Git cloning the repository .
