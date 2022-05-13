@@ -2,13 +2,13 @@
 ## By Ezra Kipchirchir
 ![Screenshot from 2022-05-13 12-35-27](https://user-images.githubusercontent.com/104457703/168256971-3d364eee-470e-41de-8a44-04c5b4d4a610.png)
 ## Table of content
-   -Description
-   -Project-setup-Instructions and requirements
-   -The Technology used
-   -Known Bugs
-   -Live link
-   -License
-   -Authors information
+   1. Description
+   2. Project-setup-Instructions and requirements
+   3. The Technology used
+   4. Known Bugs
+   5. Live link
+   6. License
+   7. Authors information
 ### Description
 This project displays the moringa school home page where one can actually get the basic knowledge of of what the school offers even apart from the tech field. 
 ### Features
